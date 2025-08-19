@@ -9,8 +9,12 @@
 <!-- - XPUs - CPUs, GPUs, TPUs, and DPUs -->
 
 ## Relevant Media
+- [Lecture Slides](01_foundations_of_computing_at_scale.pdf)
+- [Microprocessor Trend Data (Must Look at)](https://github.com/karlrupp/microprocessor-trend-data?tab=readme-ov-file)
+- [Gordon Moore's original 'Moores' law paper](https://download.intel.com/newsroom/2023/manufacturing/moores-law-electronics.pdf)
+- [An IEEE article on an alternative metric to Moores law](https://spectrum.ieee.org/a-better-way-to-measure-progress-in-semiconductors)
 - [Jevons paradox wiki page](https://en.wikipedia.org/wiki/Jevons_paradox)
-- [A simple overview of GPUs](https://www.cs.utexas.edu/~pingali/CS378/2015sp/lectures/IntroGPUs.pdf)
+<!-- - [A simple overview of GPUs](https://www.cs.utexas.edu/~pingali/CS378/2015sp/lectures/IntroGPUs.pdf) -->
 - [A good overview of GPUs at scale for AI](https://jax-ml.github.io/scaling-book/gpus/)
 
 ## Activities
