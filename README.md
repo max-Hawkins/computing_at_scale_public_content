@@ -3,7 +3,7 @@
 This repository contains the public course content for a course offered through Georgia Tech's Online Masters of Computer Science program. Content additions and edits are encouraged through pull requests. The aim is to provide a public and central resource for educational material on data centers including research papers, videos, books, self-quizzes, and more.
 
 ## Content Overview
-1. [Foundations of Computing at Scale](/modules/01_foundations_of_computing_at_scale/01_foundations_of_computing_at_scale)
+1. [Foundations of Computing at Scale](/modules/01_foundations_of_computing_at_scale/01_foundations_of_computing_at_scale.md)
 2. [Computing Performance Measurement](/modules/02_computing_performance_measurement/02_computing_performance_measurement)
 3. [Multi-Node and GPU-Centric Architectures](/modules/03_multinode_and_gpu_centric_arch/03_multinode_and_gpu_centric_arch)
 4. Scale-Out Networking
