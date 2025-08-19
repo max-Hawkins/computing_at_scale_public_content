@@ -19,7 +19,7 @@
 - [A good overview of GPUs at scale for AI](https://jax-ml.github.io/scaling-book/gpus/)
 
 ## Activities
--
+- What is the closest data center to where you live or work? What are some details you can find about it?
 
 ## Self-Evaluation
 The following questions are meant for you to assess if you understand the material.
