@@ -6,7 +6,7 @@ This repository contains the public course content for a course offered through 
 1. [Foundations of Computing at Scale](/modules/01_foundations_of_computing_at_scale/01_foundations_of_computing_at_scale.md)
 2. [Computing Performance Measurement](/modules/02_computing_performance_measurement/02_computing_performance_measurement.md)
 3. [Multi-Node and GPU-Centric Architectures](/modules/03_multinode_and_gpu_centric_arch/03_multinode_and_gpu_centric_arch.md)
-4. Cooling and Thermal Management
+4. [Cooling and Thermal Management](/modules/04_cooling_and_thermal_management/04_cooling_and_thermal_management.md)
 5. Resource Consumption and Environmental Footprint
 6. Real-World Constraints
 7. Ethics and the Future of Scaling
