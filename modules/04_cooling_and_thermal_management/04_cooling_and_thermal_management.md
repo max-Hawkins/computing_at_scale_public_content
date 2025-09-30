@@ -10,6 +10,8 @@
 - [SemiAnalysis Overview of DC Cooling](https://semianalysis.com/2025/02/13/datacenter-anatomy-part-2-cooling-systems/)(Must read)
 - [LUMI Sustainability (2024)](https://www.bnl.gov/modsim/events/2024/files/talks/fredrik-robertsen.pdf) (Must read)
 - [LUMI Design and Operation (2022)](https://moda.dmi.unibas.ch/wp-content/uploads/2022/07/moda22-slides-manninen.pdf)
+- [Microsoft Microfluidic Cooling](https://news.microsoft.com/source/features/innovation/microfluidics-liquid-cooling-ai-chips/)
+- [Cooling Lifecycle Analysis of Datacenters](https://www.nature.com/articles/s41586-025-08832-3)
 
 
 ## Activities
