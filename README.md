@@ -7,7 +7,7 @@ This repository contains the public course content for a course offered through 
 2. [Computing Performance Measurement](/modules/02_computing_performance_measurement/02_computing_performance_measurement.md)
 3. [Multi-Node and GPU-Centric Architectures](/modules/03_multinode_and_gpu_centric_arch/03_multinode_and_gpu_centric_arch.md)
 4. [Cooling and Thermal Management](/modules/04_cooling_and_thermal_management/04_cooling_and_thermal_management.md)
-5. Resource Consumption and Environmental Footprint
+5. [Resource Consumption and Environmental Footprint](/modules/05_resource_consumption/05_resource_consumption.md)
 6. Real-World Constraints
 7. Ethics and the Future of Scaling
 
