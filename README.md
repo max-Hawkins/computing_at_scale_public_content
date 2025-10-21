@@ -8,7 +8,7 @@ This repository contains the public course content for a course offered through 
 3. [Multi-Node and GPU-Centric Architectures](/modules/03_multinode_and_gpu_centric_arch/03_multinode_and_gpu_centric_arch.md)
 4. [Cooling and Thermal Management](/modules/04_cooling_and_thermal_management/04_cooling_and_thermal_management.md)
 5. [Resource Consumption and Environmental Footprint](/modules/05_resource_consumption/05_resource_consumption.md)
-6. Real-World Constraints
+6. [Real-World Constraints](/modules/06_real_world_constraints/06_real_world_constraints.md)
 7. Ethics and the Future of Scaling
 
 Note: I'm working on making the content as I go, so check back later if there is missing content.
