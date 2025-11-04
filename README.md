@@ -9,6 +9,6 @@ This repository contains the public course content for a course offered through 
 4. [Cooling and Thermal Management](/modules/04_cooling_and_thermal_management/04_cooling_and_thermal_management.md)
 5. [Resource Consumption and Environmental Footprint](/modules/05_resource_consumption/05_resource_consumption.md)
 6. [Real-World Constraints](/modules/06_real_world_constraints/06_real_world_constraints.md)
-7. Ethics and the Future of Scaling
+7. [Ethics and the Future of Scaling](/modules/07_ethics_and_future/07_ethics_and_future.md)
 
 Note: I'm working on making the content as I go, so check back later if there is missing content.

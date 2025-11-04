@@ -9,6 +9,7 @@
 
 
 ## Relevant Media
+- [Discussion/lecture slides](07_ethics_and_future.pptx)
 - [Computing Within Limits](https://computingwithinlimits.org/2015/papers/limits2015-hilty.pdf)
 
 
