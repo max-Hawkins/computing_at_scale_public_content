@@ -3,7 +3,7 @@
 ## Content Overview
 - The need for cooling - Power and Inefficiency!
 - Types of cooling - Air, liquid, immersion, mechanical, evaporative, etc
-- Heat resuse
+- Heat reuse
 
 
 ## Relevant Media
