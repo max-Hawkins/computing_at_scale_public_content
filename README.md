@@ -11,4 +11,6 @@ This repository contains the public course content for a course offered through 
 6. [Real-World Constraints](/modules/06_real_world_constraints/06_real_world_constraints.md)
 7. [Ethics and the Future of Scaling](/modules/07_ethics_and_future/07_ethics_and_future.md)
 
+Bonus: [Datacenters in Space and the Sea](modules/bonus_space_and_sea/bonus_space_and_sea.md)
+
 Note: I'm working on making the content as I go, so check back later if there is missing content.
