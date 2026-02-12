@@ -9,6 +9,9 @@
 - Key differences in workloads, architectures, and downstream impacts
 
 ## Relevant Media
+- [HPC Forecast: Cloudy and Uncertain](https://cacm.acm.org/research/hpc-forecast/)
+- [Dan Reed's 'HPC in an AI World](https://hpcdan.org/2026/02/06/hpc-in-an-ai-world/)
+- [Glenn Lockwood's response to Dan Reed](https://blog.glennklockwood.com/2026/02/hpc-in-ai-world-swimming-upstream-with.html)
 - [System Design for Next-Gen Frontier Models - Video Presentation By Dylan Patel](https://www.youtube.com/watch?v=gFyBdBm0AGo)
 - [Meta's computing infrastructure development over time](https://engineering.fb.com/2025/09/29/data-infrastructure/metas-infrastructure-evolution-and-the-advent-of-ai/)
 - [Microsoft Fairwater (Hyperscale AI datacenter) 'details'](https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/)
