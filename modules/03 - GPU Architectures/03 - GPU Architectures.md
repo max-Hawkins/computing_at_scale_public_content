@@ -10,6 +10,7 @@
 - GPU power consumption
 
 ## Relevant Media
+- [GPU Architecture Slides](gpu_architecture_slides.pdf)
 - [An overview of GPUs at scale for AI](https://jax-ml.github.io/scaling-book/gpus/)
 <!-- Todo: Find better and more succint GPU primer -->
 - [Grace Hopper system architecture evaluation paper](https://arxiv.org/pdf/2408.11556v1)
